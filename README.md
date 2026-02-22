@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This project applies a deep learning neural network to predict diabetes onset using the **Pima Indians Diabetes Dataset** from Kaggle. The dataset contains medical diagnostic measurements for 768 female patients of Pima Indian heritage, and the goal is to classify whether a patient is diabetic (1) or non-diabetic (0) based on 8 clinical features.
+This repo applies a deep learning neural network to predict diabetes onset using the **Pima Indians Diabetes Dataset** from Kaggle. The dataset contains medical diagnostic measurements for 768 female patients of Pima Indian heritage, and the goal is to classify whether a patient is diabetic (1) or non-diabetic (0) based on 8 clinical features.
 
 
 ## Dataset
@@ -25,7 +25,7 @@ This project applies a deep learning neural network to predict diabetes onset us
 
 ## Approach
 
-The project follows a complete end-to-end machine learning pipeline:
+The model pipeline:
 
 1. **Data Loading & Exploration**: Load the CSV dataset, inspect class distribution, and examine feature value ranges.
 2. **Outlier Removal**: Apply Z-score analysis (threshold = 3) to remove extreme values that could skew model training.
