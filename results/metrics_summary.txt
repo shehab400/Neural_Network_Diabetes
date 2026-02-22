@@ -1,0 +1,20 @@
+======================================================================
+PIMA INDIANS DIABETES - CLASSIFICATION METRICS SUMMARY
+======================================================================
+
+Test Loss:     0.4291
+Test Accuracy: 0.7899 (78.99%)
+
+Overall Metrics (Diabetic = positive class):
+  Precision: 0.7179
+  Recall:    0.6087
+  F1-Score:  0.6588
+
+Non-Diabetic (Class 0):
+  Precision: 0.8182
+  Recall:    0.8804
+
+Diabetic (Class 1):
+  Precision: 0.7179
+  Recall:    0.6087
+
